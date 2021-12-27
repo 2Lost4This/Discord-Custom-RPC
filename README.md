@@ -7,4 +7,4 @@ This RPC shows a custom rich presense on your Discord profile, this can include 
 To get install all needed packages, use `npm install`. You can edit any data in `index.js`, i will show you more infos inside the file. After that, save your changes and run `node index.js`
 
 # Support
-If you need help, feel free to join my [Server](https://discord.gg/saGwZtAGxJ). Hope everything works fine
+If you need help, feel free to join my [Server](https://discord.gg/saGwZtAGxJ). Hope everything works fine :)
