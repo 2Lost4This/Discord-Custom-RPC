@@ -11,7 +11,7 @@ Here is an example how my status looks:
 
 
 
-![Alt text](https://cdn.discordapp.com/attachments/921882936121393194/925178180896182302/unknown.png "Status")
+![Promo](https://cdn.discordapp.com/attachments/921882936121393194/925178180896182302/unknown.png "Status")
 
 
 # Support
