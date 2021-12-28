@@ -18,3 +18,8 @@ Here is an example how my status looks:
 # Support
 If you need help, feel free to join my [Server](https://discord.gg/saGwZtAGxJ). Hope everything works fine :)
 
+
+# To-Do List
+
+⬜Youtube Video: How to create an Application and how you can add images 
+
