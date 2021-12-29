@@ -3,15 +3,18 @@ const client = new rpc.Client({
     transport: 'ipc'
 })
 client.on('ready', () => {
+         console.log('RPC started', );
     client.request('SET_ACTIVITY', {
         pid: process.pid,
         activity: {
-            details: "Moderator & Developer", //first line on the Status
-            state: "Feel free to dm me", // Second line on the Status
-            timestamps: {start: Date.now()}, //starting timer
+            details: "Moderator & Developer",
+            state: "Feel free to dm me",
+            timestamps: {start: Date.now()},
             assets: {
-                large_image: "redpanada", // Go to the Developer Portal, add an image and add the Name here 
-                large_text: ":^)" //the text from the image 
+                large_image: "redpanada",
+                large_text: ":^)",
+                small_image: "redpanada",
+                small_text: "Nothing special here"
             },
             buttons: [{
                 label: "Discord", //Name of the first Button
