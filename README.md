@@ -4,7 +4,9 @@ This RPC shows a custom rich presense on your Discord profile, this can include 
 
 **Getting started**
 
-You can edit any data in `index.js`, i will show you more infos inside the file. After that, save your changes and run `node index.js`.
+First, you need to install [Node.js](https://nodejs.org/en/).
+
+After that, you can edit any data in `index.js`, i will show you more infos inside the file. After that, save your changes and run `node index.js`.
 (You need to create an Application on the [Discord Developer Portal](https://discord.com/developers/applications) to create a custom RPC. 
 
 Here is an example how my status looks:
