@@ -24,5 +24,4 @@ If you need help, feel free to join my [Server](https://discord.gg/saGwZtAGxJ). 
 # To-Do List
 
 - [ ] Youtube Video: How to create an Application and how you can add images 
-- [ ] How to start it
 
