@@ -20,6 +20,10 @@ Here is an example how my status looks:
 # Support
 If you need help, feel free to join my [Server](https://discord.gg/saGwZtAGxJ). Hope everything works fine :)
 
+# Special Thanks
+<a href="https://github.com/2Lost4This/Discord-Custom-RPC/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=2Lost4This/Discord-Custom-RPC" />
+</a>
 
 # To-Do List
 
