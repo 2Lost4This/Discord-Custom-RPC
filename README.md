@@ -1,5 +1,5 @@
-# discord-rpc
-This RPC shows a custom rich presense on your Discord profile, this can include up to 2 buttons with links and 2 titles, a tutorial is in a read.me file!
+# Discord Custom RPC
+This RPC shows a custom rich presense on your Discord profile, this can include up to 2 buttons with links and 2 titles, a tutorial is in a [README.md](https://github.com/2Lost4This/Discord-Custom-RPC/README.md/) file!
 
 
 **Getting started**
@@ -27,5 +27,5 @@ If you need help, feel free to join my [Server](https://discord.gg/saGwZtAGxJ). 
 
 # To-Do List
 
-- [ ] Youtube Video: How to create an Application and how you can add images 
+- [ ] Youtube Video: How to create an Application and how you can add images.
 
