@@ -18,14 +18,11 @@ Here is an example how my status looks:
 
 
 # Support
-If you need help, feel free to join my [Server](https://discord.gg/saGwZtAGxJ). Hope everything works fine :)
+If you need help, feel free to join my [Server](https://discord.gg/saGwZtAGxJ). You can also join the Official [Discord Developer Server](https://discord.gg/discord-developers) if you cant get help from me. Hope everything works fine :)
 
 # Special Thanks
 <a href="https://github.com/2Lost4This/Discord-Custom-RPC/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=2Lost4This/Discord-Custom-RPC" />
 </a>
 
-# To-Do List
-
-- [ ] Youtube Video: How to create an Application and how you can add images.
 
