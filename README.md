@@ -1,24 +1,20 @@
 # Discord Custom RPC
-This RPC shows a custom rich presense on your Discord profile, this can include up to 2 buttons with links and 2 titles, a tutorial is in a [README.md](https://github.com/2Lost4This/Discord-Custom-RPC/README.md/) file!
+This RPC shows a custom rich presense on your Discord profile, this can include up to 2 buttons with links and 2 titles, a tutorial is in a [README.md](https://github.com/2Lost4This/Discord-Custom-RPC/README.md/) file! 
+
+**I would really appreciate your support by adding a star to this repo but also you can [support me here](https://www.buymeacoffee.com/2lost4this)**
 
 
-**Getting started**
+# Getting started
 
 First, you need to install [Node.js](https://nodejs.org/en/).
 
-After that, you can edit any data in `index.js`, i will show you more infos inside the file. After that, save your changes and run `node index.js`.
-(You need to create an Application on the [Discord Developer Portal](https://discord.com/developers/applications) to create a custom RPC. 
+After that, you can edit any data in `index.js`, i will show you more infos inside the file. After that, save your changes and run `npm i` 
 
-Here is an example how my status looks:
-
-
-
-
-![Promo](https://cdn.discordapp.com/attachments/921882936121393194/925178180896182302/unknown.png "Status")
-
+and then `node index.js`(To start the rpc).
 
 # Support
 If you need help, feel free to join my [Server](https://discord.gg/saGwZtAGxJ). You can also join the Official [Discord Developer Server](https://discord.gg/discord-developers) if you cant get help from me. Hope everything works fine :)
+
 
 # Special Thanks
 <a href="https://github.com/2Lost4This/Discord-Custom-RPC/graphs/contributors">
