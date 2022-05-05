@@ -7,21 +7,21 @@ client.on('ready', () => {
     client.request('SET_ACTIVITY', {
         pid: process.pid,
         activity: {
-            details: "Moderator & Developer", // First Line
-            state: "Feel free to dm me", //  Second Line
+            details: "Some text", // First Line
+            state: "Some text", //  Second Line
             timestamps: {start: Date.now()}, // Starting Timer
             assets: {
-                large_image: "redpanada", // name of the large image in the Developer Portal
-                large_text: ":^)",  // Text shwoing on clicking on the large image 
-                small_image: "redpanada", // Text shwoing on clicking on the small image 
-                small_text: "Nothing special here" // name of the small image in the Developer Portal
+                large_image: "ImageName1", // name of the large image in the Developer Portal
+                large_text: "Some text",  // Text shwoing on clicking on the large image 
+                small_image: "ImageName2", // Text shwoing on clicking on the small image 
+                small_text: "Some text" // name of the small image in the Developer Portal
             },
             buttons: [{
-                label: "Discord", //Name of the first Button
-                url: "https://discord.gg/4Q87pfTWqC" //link of the first button
+                label: "Some text", //Name of the first Button
+                url: "Link1" //link of the first button
             }, {
-                label: "Spotify", //name of the second button
-                url: "https://open.spotify.com/user/x0qw2ktvf9dhl53iv8jbwelky?si=5a3e85f60de94ee2" //link of the second button
+                label: "Some text", //name of the second button
+                url: "Link2" //link of the second button
             }]
     
         }
