@@ -13,7 +13,7 @@ After that, you can edit any data in `index.js`, i will show you more infos insi
 and then `node index.js`(To start the rpc).
 
 # Support
-If you need help, feel free to join my [Server](https://discord.gg/saGwZtAGxJ). You can also join the Official [Discord Developer Server](https://discord.gg/discord-developers) if you cant get help from me. Hope everything works fine :). You cn also contact me over E-Mail: help@losti.xyz
+If you need help, feel free to join my [Server](https://discord.gg/saGwZtAGxJ). You can also join the Official [Discord Developer Server](https://discord.gg/discord-developers) if you cant get help from me. Hope everything works fine :). You can also contact me over E-Mail: help@losti.xyz
 
 
 # Special Thanks
